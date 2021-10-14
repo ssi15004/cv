@@ -3,7 +3,7 @@ repository: sproogen/resume-theme
 favicon: images/favicon.ico
 
 # Content configuration version
-version: 2
+version: 0
 
 # Personal info
 name: Serena Santi
@@ -14,18 +14,8 @@ email: serenasanti@gmx.com
 darkmode: never
 
 # Social links
-# twitter_username: facespics
 github_username:  ssi15004
-# stackoverflow_username: "00000001"
-# dribbble_username: jekyll
-# facebook_username: jekyll
-# flickr_username: jekyll
-# instagram_username: jameswgrant
 linkedin_username: santiserena
-# xing_username: jekyll
-# pinterest_username: jekyll
-# youtube_username: globalmtb
-# googleplus_username: +jekyll
 orcid_username: 0000-0002-3232-5040
 
 additional_links:
@@ -52,9 +42,11 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+Ever since high school I was very interested in the study of computer science in general, and computer networks and embedded systems in particular, mainly due to the many existing open research challenges and a lot of interesting applications in these areas. I first began the study of computer science in high school because I wanted to understand more the functioning of the computers, both from the software that the hardware perspective. After graduation, I chose the faculty of Computer Science at the University of Camerino to pursue a bachelor and master degree, in line with my high school diploma. I had classes oriented mainly towards theoretical computer science. During my bachelors I followed classes on algorithms and data structures, logics, calculus, numerical analysis, statistics and operational research. Coherent with my bachelor education, I further deepened my theoretical knowledge during my masters. I followed courses such as model checking, theory of complexity, and modelling and simulation.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+Wanting to gain some more practical computer science knowledge, I took the opportunity to go on Erasmus during my masters. I went to Mälardalen University in Sweden to immerse myself into one of my original passions, embedded systems design. I followed several courses that were not available in my own university, about scheduling and management of real time embedded systems. Being abroad, and studying in a more practical research-oriented environment, the idea to pursue a PhD started growing in my mind.
+
+As such, I was very happy when I stumbled upon an open research position at the University of Antwerp during Summer 2016, to investigate heterogeneous low-power wireless communications protocols for Internet of Things (IoT) devices. I discovered that IoT research finds itself on the intersection between embedded systems, wireless communications, and data analytic, which perfectly aligns with my original passions.
 
 content:
   - title: Projects # Title for the section
