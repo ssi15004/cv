@@ -7,27 +7,30 @@ version: 2
 
 # Personal info
 name: Serena Santi
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+title: Ph.D. Student in Wireless Communication
+email: serenasanti@gmx.com
 
 # Dark Mode (true/false/never)
-darkmode: true
+darkmode: false
 
 # Social links
 # twitter_username: facespics
-github_username:  sproogen
+github_username:  ssi15004
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
 # instagram_username: jameswgrant
-linkedin_username: jameswgrant
+linkedin_username: santiserena
 # xing_username: jekyll
 # pinterest_username: jekyll
 # youtube_username: globalmtb
 # googleplus_username: +jekyll
-orcid_username: 0000-0000-0000-0000
+orcid_username: 0000-0002-3232-5040
+
+- title: ResearchGate
+   icon: fab fa-researchgate
+   url: https://www.researchgate.net/profile/Serena-Santi
 
 # Additional icon links
 # additional_links:
