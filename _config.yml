@@ -28,9 +28,10 @@ linkedin_username: santiserena
 # googleplus_username: +jekyll
 orcid_username: 0000-0002-3232-5040
 
-title: ResearchGate
-icon: fab fa-researchgate
-url: https://www.researchgate.net/profile/Serena-Santi
+additional_links:
+- title: ResearchGate
+  icon: fab fa-researchgate
+  url: https://www.researchgate.net/profile/Serena-Santi
 
 # Additional icon links
 # additional_links:
