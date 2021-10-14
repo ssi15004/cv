@@ -29,7 +29,7 @@ linkedin_username: santiserena
 orcid_username: 0000-0002-3232-5040
 
 - title: ResearchGate
-   icon: fab fa-researchgate
+   icon: <i class="fab fa-researchgate"></i>
    url: https://www.researchgate.net/profile/Serena-Santi
 
 # Additional icon links
