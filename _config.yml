@@ -60,7 +60,7 @@ about_content: | # this will include new lines to allow paragraphs
   I discovered that IoT research finds itself on the intersection between embedded systems, wireless communications, and data analytic, which perfectly aligns with my original passions.
 
 content:
-  - title: Projects # Title for the section
+  - title: Ciao # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
