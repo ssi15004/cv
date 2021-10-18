@@ -1,5 +1,5 @@
 # Site
-repository: sproogen/jameswgrant
+repository: ssi15004/ssi15004.github.io
 favicon: images/favicon.ico
 
 
@@ -60,7 +60,7 @@ about_content: | # this will include new lines to allow paragraphs
   As such, I was very happy when I stumbled upon an open research position at the University of Antwerp during Summer 2016, to investigate heterogeneous low-power wireless communications protocols for Internet of Things (IoT) devices. 
   I discovered that IoT research finds itself on the intersection between embedded systems, wireless communications, and data analytic, which perfectly aligns with my original passions.
 
-#content:
+content:
   #- title: Ciao # Title for the section
     #layout: list # Type of content section (list/text)
     #content:
